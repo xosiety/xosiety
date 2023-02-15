@@ -2,9 +2,9 @@
 
 #### 🔭 My name's **Andrea** 
 
-#### 🎓 recently I became a student @ 42 Roma Luiss
+#### 🎓 Recently I became a student @ 42 Roma Luiss
 
-#### 📚 actually I'm learning **C** & **Unix**
+#### 📚 Actually I'm learning **C** & **Unix**
 
 #### 🧶 Passionate about any **audio-visual** sort of things
 
