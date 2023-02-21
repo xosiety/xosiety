@@ -10,10 +10,9 @@
 
 🌱 Always willing to **improve**
 
-
-| 🤹🏽  Currently dealing with                                                                                              | 💭   Dreaming about:                                                                                                                      |
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| <p><a href="https://github.com/xosiety?tab=repositories"> <img src="https://skillicons.dev/icons?i=c,vim,git" /></a></p>  | <p><a href="https://github.com/xosiety?tab=repositories"> <img src="https://skillicons.dev/icons?i=blender,raspberrypi,linux" /> </a></p> |
+|                                              🤹🏽  Currently dealing with:                                               |                                                           💭   Dreaming about:                                                            |
+|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| <p><a href="https://github.com/xosiety?tab=repositories"> <img src="https://skillicons.dev/icons?i=c,vim,git" /></a></p> | <p><a href="https://github.com/xosiety?tab=repositories"> <img src="https://skillicons.dev/icons?i=blender,raspberrypi,linux" /> </a></p> |
 
 _________
 
@@ -38,4 +37,6 @@ _________
 📫   You might find me here:
 
 #### <a href="mailto:afabbri@student.42roma.it ">afabbri@student.42roma.it </a>
+
+![](https://hit.yhype.me/github/profile?user_id=48227952)
 
