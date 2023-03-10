@@ -2,7 +2,7 @@
 
 🔭 My name's **Andrea** 
 
-🎓 I recently became a **student** @ **42 Roma Luiss**
+🎓 I recently became a **student** @ [**42 Roma Luiss**](https://42roma.it)
 
 📚 Actually I'm learning [**C** & **Unix**](#-running-projects)
 
@@ -19,11 +19,12 @@ _________
 #### 🎒 Running **projects**
 
 
-
-| Project                                                   | Description                                 | Status                                                                                                                                                  |
-|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [libft](https://github.com/xosiety/libft)                 | Our very first own library                  |  [![afabbri's 42 Libft Score](https://badge42.vercel.app/api/v2/cldhnh07v00880gl40bx970ai/project/2956014)](https://github.com/JaeSeoKim/badge42)                                                                                                                                                      |
-| [ get_next_line](https://github.com/xosiety/get_next_line) | Reading a line from a fd is way too tedious | [![afabbri's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cldhnh07v00880gl40bx970ai/project/2989343)](https://github.com/JaeSeoKim/badge42)|
+| Project                                                    | Description                                    | Status                                                                                                                                                    |
+|------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [libft](https://github.com/xosiety/libft)                  | Our very first own library                     | [![afabbri's 42 Libft Score](https://badge42.vercel.app/api/v2/cldhnh07v00880gl40bx970ai/project/2956014)](https://github.com/JaeSeoKim/badge42)          |
+| [ get_next_line](https://github.com/xosiety/get_next_line) | Reading a line from a fd is way too tedious    | [![afabbri's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cldhnh07v00880gl40bx970ai/project/2989343)](https://github.com/JaeSeoKim/badge42)  |
+| [ft_printf]()                                              | Because ft_putnbr and ft_putstr aren’t enough  | [![afabbri's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cldhnh07v00880gl40bx970ai/project/2997086)](https://github.com/JaeSeoKim/badge42)      |
+| [born2beroot]()                                            | The wonderful world of virtualization          |                                                                                                                                                           |
 
 
 _________
